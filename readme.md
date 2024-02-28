@@ -35,5 +35,5 @@ docker-compose up -d
 
 ## Dodatkowe uwagi
 
-PgAdmin udostępnia dosmyślnie pliki (np. skrypty) z katalogu `/var/lib/pgadmin/storage/<username>`.
+PgAdmin udostępnia domyślnie pliki (np. skrypty) z katalogu `/var/lib/pgadmin/storage/<username>`.
 W naszym przypadku jest to katalog hosta: `C:\DockerVolumes\PgAdmin\storage\admin_pgadmin.com` (domyślnie) 
