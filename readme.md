@@ -2,7 +2,7 @@
 
 1. Skopuj repozytorium z zawartym w nim plikiem `docker-compose.yml`
 
-```
+```sh
 git clone https://github.com/krzysztofjankiewicz/PostgreSQLPgAdmin.git
 ```
 
@@ -14,13 +14,13 @@ git clone https://github.com/krzysztofjankiewicz/PostgreSQLPgAdmin.git
 
 3. Przejdź w terminalu do katalogu z plikiem `docker-compose.yml`
 
-```
+```sh
 cd PostgreSQLPgAdmin
 ```
 
 4. Uruchom oba kontenery 
 
-```
+```sh
 docker-compose up -d
 ```
 
